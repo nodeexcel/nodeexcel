@@ -6,7 +6,7 @@
 
 Building production-grade AI systems, enterprise automation platforms, and scalable cloud-native applications.
 
-<p>
+<!-- <p>
   <a href="https://github.com/nodeexcel">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
@@ -16,7 +16,7 @@ Building production-grade AI systems, enterprise automation platforms, and scala
   <a href="mailto:contact@nodeexcel.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-</p>
+</p> -->
 
 </div>
 
