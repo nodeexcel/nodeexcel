@@ -6,17 +6,17 @@
 
 Building production-grade AI systems, enterprise automation platforms, and scalable cloud-native applications.
 
-<!-- <p>
+<p>
   <a href="https://github.com/nodeexcel">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/nodeexcel">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  <a href="https://www.upwork.com/freelancers/atulk73?mp_source=share">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white"/>
   </a>
-  <a href="mailto:contact@nodeexcel.dev">
+  <a href="mailto:atul.etech2011@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-</p> -->
+</p>
 
 </div>
 
@@ -183,8 +183,22 @@ Large-scale browser automation with proxy rotation and device emulation.
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nodeexcel/nodeexcel/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nodeexcel/nodeexcel/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/nodeexcel/nodeexcel/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 <div align="center">
 
 **8+ years of experience building AI systems, enterprise software, and cloud-native applications.**
+
+📫 **Reach out:** [Email](mailto:atul.etech2011@gmail.com) · [Upwork](https://www.upwork.com/freelancers/atulk73?mp_source=share) · [GitHub](https://github.com/nodeexcel)
 
 </div>
