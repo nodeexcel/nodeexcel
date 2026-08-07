@@ -165,19 +165,20 @@ Large-scale browser automation with proxy rotation and device emulation.
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nodeexcel&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodeexcel&layout=compact&theme=github_dark&hide_border=true"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=nodeexcel&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nodeexcel&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nodeexcel&theme=github-dark&hide_border=true&area=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nodeexcel&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
